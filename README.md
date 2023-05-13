@@ -1,2 +1,4 @@
 # keeptalking-tools
-Small scripts to help with uh... stress.
+Small scripts to help with uh... stress
+
+Mostly to help me with hard morse code things
